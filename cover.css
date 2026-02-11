@@ -1,0 +1,39 @@
+  .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+
+body {
+  display: flex;
+
+  background-image: url("img/pisca2.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+
+}
+
+.nav-masthead {
+    background-color: black;
+    padding: 0%;
+}
+
+.nav-link{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.lead{
+  
+}
